@@ -8,3 +8,6 @@ Florian Wilhelm Jürgen Homm ist ein deutscher Börsenspekulant und Hedgefondsma
 * Macht mich Reich
 * Der Börsenbrief ist das geilste
 * Scheißt auf das System
+
+Wie der Weise Florian Homm einst sagte:
+> Wenn jemand viel Geld für mich verdient, berührt das meine Seele
