@@ -4,7 +4,7 @@ github-flavored-markdown#1
 Florian Wilhelm Jürgen Homm ist ein deutscher Börsenspekulant und Hedgefondsmanager. Der von Homm verwaltete Hedgefonds Absolute Capital Management kam zeitweise auf ein Volumen von bis zu drei Milliarden US-Dollar, brach aber 2007 zusammen. Investoren sollen 200 Millionen US-Dollar verloren haben.
 
 ## Kerneigenschaften von Hommi
-*Reich
-*Macht mich Reich
-*Der Börsenbrief ist das geilste
-*Scheißt auf das System
+* Reich
+* Macht mich Reich
+* Der Börsenbrief ist das geilste
+* Scheißt auf das System
